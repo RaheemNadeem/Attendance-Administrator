@@ -1,0 +1,7 @@
+This project is based upon c#,database and Active Server Pages..
+So in order to view the project the following softwares are to preinstalled.
+-->Visual Studio 
+-->SQL data Base
+-->IIS Express
+-->SQL Server.
+After installing all the softwares open Webapplication.sln file in visual studio and click start without debugging to view the project.
